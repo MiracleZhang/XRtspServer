@@ -1,7 +1,7 @@
 package stream_server
 
 import (
-	"github.com/NiuStar/XRtspServer/rtsp"
+	"github.com/MiracleZhang/XRtspServer/rtsp"
 	"sync"
 )
 

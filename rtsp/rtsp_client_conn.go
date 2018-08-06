@@ -1,10 +1,10 @@
 package rtsp
 
 import (
-	"github.com/NiuStar/XRtspServer/RtspClientManager"
-	"github.com/NiuStar/XRtspServer/media"
-	"github.com/NiuStar/XRtspServer/sdp"
-	"github.com/NiuStar/XRtspServer/util"
+	"github.com/MiracleZhang/XRtspServer/RtspClientManager"
+	"github.com/MiracleZhang/XRtspServer/media"
+	"github.com/MiracleZhang/XRtspServer/sdp"
+	"github.com/MiracleZhang/XRtspServer/util"
 	"github.com/NiuStar/log/fmt"
 	"net"
 	"strconv"
