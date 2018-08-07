@@ -69,3 +69,9 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+
+# Goland Folder
+/.idea/
+
+# log Folder
+/log/

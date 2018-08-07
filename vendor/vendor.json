@@ -1,0 +1,67 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "+U85RMMxDim3gQyLgpKqaV7fEm0=",
+			"path": "github.com/NiuStar/log",
+			"revision": "8900b81b6c229f6772a7c0564bcd472f30cd2722",
+			"revisionTime": "2018-01-24T03:36:51Z"
+		},
+		{
+			"checksumSHA1": "dOTkEnOrmg5/j4Gog90gruZBCvY=",
+			"path": "github.com/NiuStar/log/fmt",
+			"revision": "8900b81b6c229f6772a7c0564bcd472f30cd2722",
+			"revisionTime": "2018-01-24T03:36:51Z"
+		},
+		{
+			"checksumSHA1": "xTg2aPTnYaRvH87eNsJMSl6VhQ0=",
+			"path": "github.com/NiuStar/utils",
+			"revision": "8e4258e9a1d41d86e774b17d08a9ae527e2482fd",
+			"revisionTime": "2018-03-04T07:48:57Z"
+		},
+		{
+			"checksumSHA1": "CGMHn+iisBl9NBL4fUzWwhZ/vBk=",
+			"path": "github.com/petermattis/goid",
+			"revision": "b0b1615b78e5ee59739545bb38426383b2cda4c9",
+			"revisionTime": "2018-02-02T15:45:49Z"
+		},
+		{
+			"checksumSHA1": "XtSbs1gpyaEsIqf6VRhJsgOQe5U=",
+			"path": "golang.org/x/net/html/atom",
+			"revision": "f4c29de78a2a91c00474a2e689954305c350adf9",
+			"revisionTime": "2018-08-01T01:39:56Z"
+		},
+		{
+			"checksumSHA1": "tqqo7DEeFCclb58XbN44WwdpWww=",
+			"path": "golang.org/x/text/encoding",
+			"revision": "23784602d7263ffb082cf99d641e2f82794b4485",
+			"revisionTime": "2018-08-05T05:08:37Z"
+		},
+		{
+			"checksumSHA1": "zeHyHebIZl1tGuwGllIhjfci+wI=",
+			"path": "golang.org/x/text/encoding/internal",
+			"revision": "23784602d7263ffb082cf99d641e2f82794b4485",
+			"revisionTime": "2018-08-05T05:08:37Z"
+		},
+		{
+			"checksumSHA1": "oZ2ULELwcY2qgTcpYWrWGsynTuQ=",
+			"path": "golang.org/x/text/encoding/internal/identifier",
+			"revision": "23784602d7263ffb082cf99d641e2f82794b4485",
+			"revisionTime": "2018-08-05T05:08:37Z"
+		},
+		{
+			"checksumSHA1": "55UdScb+EMOCPr7OW0hCwDsVxpg=",
+			"path": "golang.org/x/text/encoding/simplifiedchinese",
+			"revision": "23784602d7263ffb082cf99d641e2f82794b4485",
+			"revisionTime": "2018-08-05T05:08:37Z"
+		},
+		{
+			"checksumSHA1": "ziMb9+ANGRJSSIuxYdRbA+cDRBQ=",
+			"path": "golang.org/x/text/transform",
+			"revision": "23784602d7263ffb082cf99d641e2f82794b4485",
+			"revisionTime": "2018-08-05T05:08:37Z"
+		}
+	],
+	"rootPath": "github.com/MiracleZhang/XRtspServer"
+}
