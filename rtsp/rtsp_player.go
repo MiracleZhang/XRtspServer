@@ -4,9 +4,9 @@ import (
 	"net"
 	"github.com/NiuStar/log/fmt"
 	"strconv"
-	"github.com/MiracleZhang/XRtspServerPlayer/RtspClientManager"
-	"github.com/MiracleZhang/XRtspServerPlayer/media"
-	"github.com/MiracleZhang/XRtspServerPlayer/util"
+	"github.com/MiracleZhang/XRtspServer/RtspClientManager"
+	"github.com/MiracleZhang/XRtspServer/media"
+	"github.com/MiracleZhang/XRtspServer/util"
 )
 
 const (
